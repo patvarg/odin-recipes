@@ -1,0 +1,14 @@
+.pastaImage {
+  border-radius: 50%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+.h2 {
+  text-align: center;
+}
+.body {
+  background-image: url("pasta.jpeg");
+  color: #60388A;
+}
